@@ -64,6 +64,7 @@ main {
 .l-footer {
   font-size: .8rem;
   padding: 1rem 0;
+  margin-top: 50px;
   border-top: 1px dashed #cfd8dc;
 }
 
